@@ -16,6 +16,7 @@ blog({
 
     links: [
         { title: "Email", url: "mailto:dima@pristupa.dev" },
+        { title: "LinkedIn", url: "https://www.linkedin.com/in/dima-pristupa/" },
         { title: "GitHub", url: "https://github.com/s373r" },
     ],
 
