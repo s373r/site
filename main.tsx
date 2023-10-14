@@ -12,6 +12,11 @@ blog({
     avatarClass: "rounded-full",
     author: "An author",
 
+    links: [
+        { title: "Email", url: "mailto:dima@pristupa.dev" },
+        { title: "GitHub", url: "https://github.com/s373r" },
+    ],
+
     // middlewares: [
 
     // If you want to set up Google Analytics, paste your GA key here.
