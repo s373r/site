@@ -6,7 +6,7 @@ blog({
     author: "Dima Pristupa",
 
     title: "Dima Pristupa",
-    description: "This is my new blog.",
+    description: "A Kyiv-based SDE in love with Rust, TypeScript, C++, Python, Haskell and GNU/Linux",
     // header: <header>Your custom header</header>,
     // section: (post: Post) => <section>Your custom section with access to Post props.</section>,
     // footer: <footer>Your custom footer</footer>,
