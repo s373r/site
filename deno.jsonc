@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "dev": "deno run --allow-net=:8000 --allow-read --allow-env=NODE_DEBUG --watch main.tsx --dev",
+    "dev": "deno run --allow-net=:8000 --allow-read --allow-env=NODE_DEBUG --watch main.tsx --dev"
   },
   "imports": {
     "blog": "https://deno.land/x/blog@0.7.0/blog.tsx"
