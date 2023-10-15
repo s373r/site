@@ -14,4 +14,7 @@ blog({
         { title: "LinkedIn", url: "https://www.linkedin.com/in/dima-pristupa/" },
         { title: "GitHub", url: "https://github.com/s373r" },
     ],
+
+    // NOTE(DP): Remove when posts are added
+    footer: {}
 });
