@@ -1,4 +1,6 @@
-import blog from "blog";
+/** @jsx h */
+
+import blog, { h } from "blog";
 
 blog({
     author: "Dima Pristupa",
@@ -13,6 +15,7 @@ blog({
         { title: "Email", url: "mailto:dima@pristupa.dev" },
         { title: "LinkedIn", url: "https://www.linkedin.com/in/dima-pristupa/" },
         { title: "GitHub", url: "https://github.com/s373r" },
+        { title: "CV", url: "https://github.com/s373r", icon: <div className="font-bold">CV</div> },
     ],
 
     // NOTE(DP): Remove when posts are added
