@@ -12,7 +12,7 @@ Voila https://dima.pristupa.dev
 deno task dev
 ```
 
-### All checks (format, linter, typing)
+### All checks (format, lint, typecheck)
 
 ```shell
 deno task checks
