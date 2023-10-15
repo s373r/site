@@ -16,5 +16,11 @@ blog({
     ],
 
     // NOTE(DP): Remove when posts are added
-    footer: {}
+    footer: {},
+
+    // NOTE(DP): Custom style:
+    style: `
+/* Make avatar bigger */
+a.bg-cover { width: 9rem; height: 9rem }
+`
 });
