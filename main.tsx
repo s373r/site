@@ -24,7 +24,7 @@ blog({
   ],
 
   // NOTE(DP): Remove when posts are added
-  footer: <div/>,
+  footer: <div />,
 
   // NOTE(DP): Custom style:
   style: `
