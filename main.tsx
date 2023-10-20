@@ -18,7 +18,8 @@ blog({
     { title: "GitHub", url: "https://github.com/s373r" },
     {
       title: "CV",
-      url: "https://raw.githubusercontent.com/s373r/cv/main/CV_Dima_Pristupa_2023.pdf",
+      url:
+        "https://raw.githubusercontent.com/s373r/cv/main/CV_Dima_Pristupa_2023.pdf",
       icon: <div className="font-bold">CV</div>,
     },
   ],
